@@ -2,7 +2,8 @@ This is a simple benchmark project for testing the performance of serializing an
 
 ### Test Data
 
-| Generated Data          |
+| Generated Data          | Contents in the Object               |
+| ----------------------- | ------------------------------------ |
 | Primitive Wrapper Types | String, Integer, Long, Float, Double |
 | Primitive Types         | String, int, long, float, double     |
 
